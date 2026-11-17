@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-label="Profile placeholder">
+  <rect width="640" height="800" fill="#141414"/>
+  <rect x="1" y="1" width="638" height="798" fill="none" stroke="#252525" stroke-width="2"/>
+  <circle cx="320" cy="300" r="88" fill="#101010" stroke="#3a3a3a" stroke-width="2"/>
+  <path d="M180 560c40-90 100-130 140-130s100 40 140 130" stroke="#3a3a3a" stroke-width="2" fill="none"/>
+  <text x="320" y="680" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">PROFILE</text>
+  <text x="320" y="710" text-anchor="middle" fill="#444444" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">REPLACE WITH YOUR PHOTO</text>
+</svg>
